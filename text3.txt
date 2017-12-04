@@ -1,2 +1,9 @@
 madhavi is good and bad.
+<<<<<<< HEAD
+madhavi just called to her place...lkjdcigdschbdsbvlduvbcldshjbckv
+sjhvhdsbvUBDISVBDjwv
+hjsvdclhbsdjivbdsbv
+jhsdbhdsbVJEWNV
+=======
 madhavi just called to her place and spoke for some time
+>>>>>>> 0376b2e7301812342edcaf89ab4902099d540828
